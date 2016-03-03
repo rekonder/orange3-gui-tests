@@ -1,0 +1,1 @@
+Scheme with Box Plot, Distributions, Scatter Map, Scatter Plot, Lineat Projection, Heat Map
