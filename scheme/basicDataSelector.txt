@@ -1,1 +1,0 @@
-Scheme which load data from file wine.tab and than it has widgets for select rows, select columns, data sampler and display selected informations in widget  Data table

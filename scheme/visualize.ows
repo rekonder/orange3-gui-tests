@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <scheme description="Scheme with Box Plot, Distributions, Scatter Map, Scatter Plot, Lineat Projection, Heat Map" title="Visualize" version="2.0">
 	<nodes>
-		<node id="0" name="File" position="(80.0, 316.0)" project_name="Orange" qualified_name="Orange.widgets.data.owfile.OWFile" title="File" version="" />
+		<node id="0" name="File" position="(80.0, 288.0)" project_name="Orange" qualified_name="Orange.widgets.data.owfile.OWFile" title="File" version="" />
 		<node id="1" name="Box Plot" position="(266.0, 46.0)" project_name="Orange" qualified_name="Orange.widgets.visualize.owboxplot.OWBoxPlot" title="Box Plot" version="" />
 		<node id="2" name="Distributions" position="(271.0, 139.0)" project_name="Orange" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" title="Distributions" version="" />
 		<node id="3" name="Scatter Map" position="(277.0, 227.0)" project_name="Orange" qualified_name="Orange.widgets.visualize.owscattermap.OWScatterMap" title="Scatter Map" version="" />
 		<node id="4" name="Heat Map" position="(275.0, 500.0)" project_name="Orange" qualified_name="Orange.widgets.visualize.owheatmap.OWHeatMap" title="Heat Map" version="" />
 		<node id="5" name="Linear Projection" position="(270.0, 412.0)" project_name="Orange" qualified_name="Orange.widgets.visualize.owlinearprojection.OWLinearProjection" title="Linear Projection" version="" />
 		<node id="6" name="Scatter Plot" position="(274.0, 317.0)" project_name="Orange" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" title="Scatter Plot" version="" />
-		<node id="7" name="Data Table" position="(516.0, 267.0)" project_name="Orange" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table Scatter" version="" />
-		<node id="8" name="Data Table" position="(522.0, 375.0)" project_name="Orange" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table Linear Projection" version="" />
-		<node id="9" name="Data Table" position="(526.0, 497.0)" project_name="Orange" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table Heat Map" version="" />
+		<node id="7" name="Data Table" position="(473.0, 240.0)" project_name="Orange" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table Scatter" version="" />
+		<node id="8" name="Data Table" position="(469.0, 356.0)" project_name="Orange" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table Linear Projection" version="" />
+		<node id="9" name="Data Table" position="(472.0, 484.0)" project_name="Orange" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table Heat Map" version="" />
 		<node id="10" name="Parallel Coordinates" position="(279.0, 616.0)" project_name="Orange" qualified_name="Orange.widgets.visualize.owparallelcoordinates.OWParallelCoordinates" title="Parallel Coordinates" version="" />
 	</nodes>
 	<links>
@@ -62,22 +62,24 @@ hnEeWAMAAABIdWVxH0sChnEgWBwAAABPRDI4MC9PRDMxNSBvZiBkaWx1dGVkIHdpbmVzcSFLAoZx
 IlgHAAAAUHJvbGluZXEjSwKGcSRYBAAAAFdpbmVxJUsBhnEmZVgEAAAAdGltZXEnR0HVth57M5jF
 WAUAAABtZXRhc3EofXEpWAoAAABhdHRyaWJ1dGVzcSp9cSsoaBNLAmgNSwJoF0sCaBVLAmgbSwJo
 D0sCaCFLAmgdSwJoGUsCaCNLAmgRSwJoC0sCaCVLAWgfSwJ1WAYAAAB2YWx1ZXNxLH1xLShYDwAA
-AGdyb3VwaW5nX3NlbGVjdHEuXXEvSwBhWBEAAABhdHRyaWJ1dGVzX3NlbGVjdHEwXXExSwFhWAgA
+AGdyb3VwaW5nX3NlbGVjdHEuXXEvSwBhWBEAAABhdHRyaWJ1dGVzX3NlbGVjdHEwXXExSwZhWAgA
 AABzdGF0dGVzdHEySwBK/v///4ZxM1gHAAAAY29tcGFyZXE0SwFK/v///4ZxNVgNAAAAc2lnX3Ro
 cmVzaG9sZHE2Rz+pmZmZmZmaSv7///+GcTdYEAAAAHNob3dfYW5ub3RhdGlvbnNxOIhK/v///4Zx
 OVgTAAAAc2F2ZWRXaWRnZXRHZW9tZXRyeXE6Y3NpcApfdW5waWNrbGVfdHlwZQpxO1gMAAAAUHlR
-dDQuUXRDb3JlcTxYCgAAAFFCeXRlQXJyYXlxPUMuAdnQywABAAAAAADFAAAANgAABE4AAAKVAAAA
-zwAAAFwAAAREAAACiwAAAAAAAHE+hXE/h3FAUnFBSv7///+GcUJYCQAAAHN0cmV0Y2hlZHFDiEr+
+dDQuUXRDb3JlcTxYCgAAAFFCeXRlQXJyYXlxPUMuAdnQywABAAAAAAC7AAAALAAABEQAAAKLAAAA
+xQAAAFIAAAQ6AAACgQAAAAAAAHE+hXE/h3FAUnFBSv7///+GcUJYCQAAAHN0cmV0Y2hlZHFDiEr+
 ////hnFEdXViaAYpgXFFfXFGKGgJXXFHKFgGAAAAYnV5aW5ncUhLAYZxSVgFAAAAbWFpbnRxSksB
 hnFLWAUAAABkb29yc3FMSwGGcU1YBwAAAHBlcnNvbnNxTksBhnFPWAcAAABsdWdib290cVBLAYZx
 UVgGAAAAc2FmZXR5cVJLAYZxU1gBAAAAeXFUSwGGcVVlaCdHQdW2GTqOdrNoKH1xVmgqfXFXKGhI
 SwFoUEsBaExLAWhKSwFoVEsBaFJLAWhOSwF1aCx9cVgoWA8AAABncm91cGluZ19zZWxlY3RxWV1x
-WksAYVgRAAAAYXR0cmlidXRlc19zZWxlY3RxW11xXEsGYWgCSwBK/v///4ZxXVgTAAAAc2F2ZWRX
-aWRnZXRHZW9tZXRyeXFeaDtoPFgKAAAAUUJ5dGVBcnJheXFfQy4B2dDLAAEAAAAAAMUAAABSAAAE
-TgAAArEAAADPAAAAeAAABEQAAAKnAAAAAAAAcWCFcWGHcWJScWNK/v///4ZxZGgDSwFK/v///4Zx
-ZVgQAAAAc2hvd19hbm5vdGF0aW9uc3FmiEr+////hnFnaAFHP6mZmZmZmZpK/v///4ZxaFgJAAAA
-c3RyZXRjaGVkcWmISv7///+GcWp1dWJlaGaIaF5oO2g8WAoAAABRQnl0ZUFycmF5cWtDLgHZ0MsA
-AQAAAAAAxQAAADYAAAROAAAClQAAAM8AAABcAAAERAAAAosAAAAAAABxbIVxbYdxblJxb2hpiHUu
+WksAYVgRAAAAYXR0cmlidXRlc19zZWxlY3RxW11xXEsGYVgIAAAAc3RhdHRlc3RxXUsASv7///+G
+cV5YEwAAAHNhdmVkV2lkZ2V0R2VvbWV0cnlxX2g7aDxYCgAAAFFCeXRlQXJyYXlxYEMuAdnQywAB
+AAAAAADFAAAAUgAABE4AAAKxAAAAzwAAAHgAAAREAAACpwAAAAAAAHFhhXFih3FjUnFkSv7///+G
+cWVYBwAAAGNvbXBhcmVxZksBSv7///+GcWdYEAAAAHNob3dfYW5ub3RhdGlvbnNxaIhK/v///4Zx
+aVgNAAAAc2lnX3RocmVzaG9sZHFqRz+pmZmZmZmaSv7///+GcWtYCQAAAHN0cmV0Y2hlZHFsiEr+
+////hnFtdXViZVgQAAAAc2hvd19hbm5vdGF0aW9uc3FuiFgTAAAAc2F2ZWRXaWRnZXRHZW9tZXRy
+eXFvaDtoPFgKAAAAUUJ5dGVBcnJheXFwQy4B2dDLAAEAAAAAALsAAAAsAAAERAAAAosAAADFAAAA
+UgAABDoAAAKBAAAAAAAAcXGFcXKHcXNScXRYCQAAAHN0cmV0Y2hlZHF1iHUu
 </properties>
 		<properties format="pickle" node_id="2">gAN9cQAoWAkAAABkaXNjX2NvbnRxAYlYDwAAAHNtb290aGluZ19pbmRleHECSwVYDQAAAHJlbGF0
 aXZlX2ZyZXFxA4lYEwAAAHNhdmVkV2lkZ2V0R2VvbWV0cnlxBGNzaXAKX3VucGlja2xlX3R5cGUK
